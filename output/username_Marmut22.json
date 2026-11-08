@@ -1,0 +1,21 @@
+{
+    "username": "Marmut22",
+    "checked_at": "2026-11-08T07:51:50.282226+00:00",
+    "results": [
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Marmut22",
+            "status": "POSSIBLY FOUND"
+        },
+        {
+            "platform": "GitLab",
+            "url": "https://gitlab.com/Marmut22",
+            "status": "UNKNOWN"
+        },
+        {
+            "platform": "Reddit",
+            "url": "https://www.reddit.com/user/Marmut22/",
+            "status": "POSSIBLY FOUND"
+        }
+    ]
+}

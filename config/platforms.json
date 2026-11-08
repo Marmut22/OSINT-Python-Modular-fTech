@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+{
+    "platforms": [
+        {
+            "name": "GitHub",
+            "category": "Developer",
+            "url": "https://github.com/{username}"
+        },
+        {
+            "name": "GitLab",
+            "category": "Developer",
+            "url": "https://gitlab.com/{username}"
+        },
+        {
+            "name": "Reddit",
+            "category": "Community",
+            "url": "https://www.reddit.com/user/{username}/"
+        },
+        {
+            "name": "Dev.to",
+            "category": "Developer",
+            "url": "https://dev.to/{username}"
+        },
+        {
+            "name": "Medium",
+            "category": "Writing",
+            "url": "https://medium.com/@{username}"
+        },
+        {
+            "name": "Codeberg",
+            "category": "Developer",
+            "url": "https://codeberg.org/{username}"
+        },
+        {
+            "name": "Replit",
+            "category": "Developer",
+            "url": "https://replit.com/@{username}"
+        },
+        {
+            "name": "Behance",
+            "category": "Creative",
+            "url": "https://www.behance.net/{username}"
+        },
+        {
+            "name": "Dribbble",
+            "category": "Creative",
+            "url": "https://dribbble.com/{username}"
+        },
+        {
+            "name": "Twitch",
+            "category": "Gaming",
+            "url": "https://www.twitch.tv/{username}"
+        },
+        {
+            "name": "Pinterest",
+            "category": "Social",
+            "url": "https://www.pinterest.com/{username}/"
+        },
+        {
+            "name": "SoundCloud",
+            "category": "Creative",
+            "url": "https://soundcloud.com/{username}"
+        }
+    ]
+}

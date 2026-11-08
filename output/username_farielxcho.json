@@ -1,0 +1,83 @@
+{
+    "tool": "fTech OSINT Toolkit",
+    "module": "Username Intelligence",
+    "version": "0.3",
+    "username": "farielxcho",
+    "checked_at": "2026-11-08T08:00:48.617068+00:00",
+    "total_checked": 12,
+    "results": [
+        {
+            "platform": "GitHub",
+            "category": "Developer",
+            "url": "https://github.com/farielxcho",
+            "status": "NOT FOUND"
+        },
+        {
+            "platform": "GitLab",
+            "category": "Developer",
+            "url": "https://gitlab.com/farielxcho",
+            "status": "UNKNOWN"
+        },
+        {
+            "platform": "Reddit",
+            "category": "Community",
+            "url": "https://www.reddit.com/user/farielxcho/",
+            "status": "POSSIBLY FOUND"
+        },
+        {
+            "platform": "Dev.to",
+            "category": "Developer",
+            "url": "https://dev.to/farielxcho",
+            "status": "NOT FOUND"
+        },
+        {
+            "platform": "Medium",
+            "category": "Writing",
+            "url": "https://medium.com/@farielxcho",
+            "status": "POSSIBLY FOUND"
+        },
+        {
+            "platform": "Codeberg",
+            "category": "Developer",
+            "url": "https://codeberg.org/farielxcho",
+            "status": "NOT FOUND"
+        },
+        {
+            "platform": "Replit",
+            "category": "Developer",
+            "url": "https://replit.com/@farielxcho",
+            "status": "NOT FOUND"
+        },
+        {
+            "platform": "Behance",
+            "category": "Creative",
+            "url": "https://www.behance.net/farielxcho",
+            "status": "NOT FOUND"
+        },
+        {
+            "platform": "Dribbble",
+            "category": "Creative",
+            "url": "https://dribbble.com/farielxcho",
+            "status": "NOT FOUND"
+        },
+        {
+            "platform": "Twitch",
+            "category": "Gaming",
+            "url": "https://www.twitch.tv/farielxcho",
+            "status": "POSSIBLY FOUND"
+        },
+        {
+            "platform": "Pinterest",
+            "category": "Social",
+            "url": "https://www.pinterest.com/farielxcho/",
+            "status": "POSSIBLY FOUND"
+        },
+        {
+            "platform": "SoundCloud",
+            "category": "Creative",
+            "url": "https://soundcloud.com/farielxcho",
+            "status": "NOT FOUND"
+        }
+    ],
+    "limitations": "HTTP responses are preliminary indicators only. They do not prove account ownership or identity."
+}
